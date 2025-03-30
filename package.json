@@ -2,7 +2,7 @@
   "name": "meme-gen",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/aaastudy100/meme-gen",
+  "homepage": "https://aaastudy100.github.io/meme-gen",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
